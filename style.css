@@ -7,5 +7,6 @@ h1 {
   text-align: center;
 }
 .room {
-  align-items: center;
+  display:block;
+  
 }
